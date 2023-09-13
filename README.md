@@ -15,6 +15,8 @@ To appear in Proceedings of IJCNLP-AACL 2023.
 
 ## howto
 (to-do add instructions)
+1. Use environment file to install dependencies (some may require manual intervention).
+2. Install spaCy model for English (en_core_web_sm)
 
 ## whyto
 
